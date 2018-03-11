@@ -6,8 +6,8 @@ These lists are **NOT** NEM.io Official. Please use at your own risk.
 ### Discription
 The web scraping script makes NEM SuperNode lists that will refresh once a day.  
 The lists are JSON and CSV.  
-The JSON lists have rich data. They have obtain date(GMT) and SuperNode's address, name, status, version and uptime(second).   
-CSV lists have only date and address. It is so small, so It is fit for small or micro computer.
+The JSON lists have rich data. They have obtain date(GMT) and SuperNode's address, name, status, version and uptime(second).   
+CSV lists have only date and address. It is so small, so It's fit for small or micro computer.
 
 ### Script
 These lists made from the script.   https://gist.github.com/Shinichi-Ohki/1771a68d995e7683162ce44874dcbcfc
