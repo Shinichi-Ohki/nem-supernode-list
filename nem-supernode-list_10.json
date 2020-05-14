@@ -1,73 +1,73 @@
 {
-  "Datetime": "2020-05-13T18:41:29Z",
+  "Datetime": "2020-05-14T18:41:29Z",
   "1": {
     "Address": "176.9.68.110",
     "Name": "HugeAlice2",
     "Status": "Active",
     "Version": "0.6.97-BETA",
-    "Uptime": 22674389
+    "Uptime": 22760789
   },
   "2": {
     "Address": "176.9.20.180",
     "Name": "HugeAlice3",
     "Status": "Active",
     "Version": "0.6.97-BETA",
-    "Uptime": 22674449
+    "Uptime": 22760850
   },
   "3": {
     "Address": "199.217.118.114",
     "Name": "HugeAlice4",
     "Status": "Active",
     "Version": "0.6.97-BETA",
-    "Uptime": 24063008
+    "Uptime": 24149408
   },
   "4": {
     "Address": "108.61.182.27",
     "Name": "Alice5",
     "Status": "Active",
     "Version": "0.6.97-BETA",
-    "Uptime": 2000474
+    "Uptime": 2086874
   },
   "5": {
     "Address": "108.61.168.86",
     "Name": "Alice6",
     "Status": "Active",
     "Version": "0.6.97-BETA",
-    "Uptime": 4782830
+    "Uptime": 4869231
   },
   "6": {
     "Address": "104.238.161.61",
     "Name": "Alice7",
     "Status": "Active",
     "Version": "0.6.97-BETA",
-    "Uptime": 21102645
+    "Uptime": 21189046
   },
   "7": {
     "Address": "148.251.0.114",
     "Name": "HugeAlice",
     "Status": "Active",
     "Version": "0.6.97-BETA",
-    "Uptime": 13305943
+    "Uptime": 13392344
   },
   "8": {
     "Address": "san.nem.ninja",
     "Name": "san",
     "Status": "Active",
     "Version": "0.6.97-BETA",
-    "Uptime": 5896121
+    "Uptime": 5982528
   },
   "9": {
     "Address": "go.nem.ninja",
     "Name": "go",
     "Status": "Active",
     "Version": "0.6.97-BETA",
-    "Uptime": 5896064
+    "Uptime": 5982471
   },
   "10": {
     "Address": "hachi.nem.ninja",
     "Name": "hachi",
     "Status": "Active",
     "Version": "0.6.97-BETA",
-    "Uptime": 14459951
+    "Uptime": 14546357
   }
 }
